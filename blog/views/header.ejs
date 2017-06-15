@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Blog</title>
+  <link rel="stylesheet" href="/stylesheets/style.css">
+  <script charset="utf-8" src="/KindEditor/kindeditor-min.js"></script>
+  <script charset="utf-8" src="/KindEditor/lang/zh_CN.js"></script>
+  <script>
+      KindEditor.ready(function (K) {
+              window.editor = K.create('textarea[name=\'post\']');
+
+              window.editor = K.create('textarea[name=\'content\']',{
+                allowImageUpload : true,
+                items : [
+                  'fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold', 'italic',
+                  'underline', 'removeformat', '|', 'justifyleft', 'justifycenter', 'justifyright',
+                  'insertorderedlist', 'insertunorderedlist', '|', 'emoticons', 'image', 'link']
+              });
+      })
+//    var editor;
+//    KindEditor.ready(function (K) {
+//        editor = K.create('textarea[name=\'comment\']',{
+//          allowImageUpload : true,
+//          items : [
+//            'fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold', 'italic',
+//            'underline', 'removeformat', '|', 'justifyleft', 'justifycenter', 'justifyright',
+//            'insertorderedlist', 'insertunorderedlist', '|', 'emoticons', 'image', 'link']
+//        });
+//    });
+  </script>
+</head>
+<body>
+<header>
+<h1 id="title"><%= title %></h1>
+
+</header>
+<form action="/search" method="GET"><input type="text" name="keyword" placeholder="搜索🔍" class="search" /></form>
+<nav>
+  <span><a title="主页" href="/">主页</a></span>
+  <span><a title="存档" href="/archive">归档</a></span>
+  <span><a title="标签" href="/tags">tags</a></span>
+  <span><a title="友情链接" href="/links">友情链接</a></span>
+
+<% if(user) { %>
+  <span><a title="发表" href="/post">发表</a></span>
+  <span><a title="登出" href="/logout">退出</a></span>
+  <span><a title="上传" href="/upload">上传</a></span>
+<% } else { %>
+  <span><a title="登录" href="/login">登陆</a></span>
+  <span><a title="注册" href="/reg">注册</a></span>
+<% } %>
+
+<!-- <span><a title="主页" href="/">home</a></span>
+<span><a title="登录" href="/login">login</a></span>
+<span><a title="注册" href="/reg">register</a></span> -->
+</nav>
+<article>
