@@ -60,7 +60,7 @@ var GithubStrategy = require('passport-github').Strategy;
 
 app.use(passport.initialize());
 
-app.set('port', process.env.PORT || 5000);
+app.set('port', process.env.PORT || 4000);
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.set('trust proxy', 1);

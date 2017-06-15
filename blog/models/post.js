@@ -38,8 +38,15 @@ var pool = poolModule.Pool({
 //     log     :true
 // });
 
-function Post(name, title, tags, post) {
+// function Post(name, title, tags, post) {
+//     this.name = name;
+//     this.title = title;
+//     this.tags = tags;
+//     this.post = post;
+// }
+function Post(name, head, title, tags, post) {
     this.name = name;
+    this.head = head;
     this.title = title;
     this.tags = tags;
     this.post = post;
@@ -88,8 +95,19 @@ Post.prototype.save = function(callback) {
         date.getHours() + ":" + (date.getMinutes() < 10 ? '0' + date.getMinutes() : date.getMinutes())
     }
     //要存入数据库的文档
+    // var post = {
+    //     name: this.name,
+    //     time: time,
+    //     title:this.title,
+    //     tags: this.tags,
+    //     post: this.post,
+    //     comments: [],
+    //     pv: 0
+    // };
+
     var post = {
         name: this.name,
+        head: this.head,
         time: time,
         title:this.title,
         tags: this.tags,

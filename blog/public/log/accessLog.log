@@ -1,119 +1,12 @@
-[2017-06-15 13:59:25.761] [TRACE] [default] - path=/Users/a58/Localhost/Node/blog/app.js:trace log
-[2017-06-15 13:59:25.769] [DEBUG] [default] - debug log
-[2017-06-15 13:59:25.769] [INFO] [default] - info log
-[2017-06-15 13:59:25.773] [WARN] [default] - warn log
-[2017-06-15 13:59:25.773] [ERROR] [default] - error log
-[2017-06-15 13:59:25.773] [FATAL] [default] - fatal log
-[2017-06-15 13:59:25.813] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
-[2017-06-15 18:38:59.721] [TRACE] [default] - path=/Users/a58/Localhost/Node/blog/app.js:trace log
-[2017-06-15 18:38:59.725] [DEBUG] [default] - debug log
-[2017-06-15 18:38:59.725] [INFO] [default] - info log
-[2017-06-15 18:38:59.725] [WARN] [default] - warn log
-[2017-06-15 18:38:59.725] [ERROR] [default] - error log
-[2017-06-15 18:38:59.726] [FATAL] [default] - fatal log
-[2017-06-15 18:38:59.772] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
-[2017-06-15 18:40:49.918] [TRACE] [default] - path=/Users/a58/Localhost/Node/blog/app.js:trace log
-[2017-06-15 18:40:49.922] [DEBUG] [default] - debug log
-[2017-06-15 18:40:49.922] [INFO] [default] - info log
-[2017-06-15 18:40:49.922] [WARN] [default] - warn log
-[2017-06-15 18:40:49.923] [ERROR] [default] - error log
-[2017-06-15 18:40:49.923] [FATAL] [default] - fatal log
-[2017-06-15 18:40:49.956] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
-[2017-06-15 18:41:18.838] [TRACE] [default] - path=/Users/a58/Localhost/Node/blog/app.js:trace log
-[2017-06-15 18:41:18.842] [DEBUG] [default] - debug log
-[2017-06-15 18:41:18.842] [INFO] [default] - info log
-[2017-06-15 18:41:18.842] [WARN] [default] - warn log
-[2017-06-15 18:41:18.842] [ERROR] [default] - error log
-[2017-06-15 18:41:18.842] [FATAL] [default] - fatal log
-[2017-06-15 18:41:18.875] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
-::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /archive HTTP/1.1" 304 - "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /u/yuanmenglong886/2017-6-13/hush HTTP/1.1" 200 2502 "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /reg HTTP/1.1" 200 2773 "http://localhost:5000/u/yuanmenglong886/2017-6-13/hush" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /login HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /images/login_default.png HTTP/1.1" 304 - "http://localhost:5000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-[2017-06-15 18:41:46.364] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
-[2017-06-15 18:41:46.365] [DEBUG] [default] - IncomingMessage {
+[2017-06-15 20:50:04.274] [TRACE] [default] - path=/Users/a58/Localhost/Node/node-blog/blog/app.js:trace log
+[2017-06-15 20:50:04.277] [DEBUG] [default] - debug log
+[2017-06-15 20:50:04.278] [INFO] [default] - info log
+[2017-06-15 20:50:04.278] [WARN] [default] - warn log
+[2017-06-15 20:50:04.278] [ERROR] [default] - error log
+[2017-06-15 20:50:04.278] [FATAL] [default] - fatal log
+[2017-06-15 20:50:04.314] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
+[2017-06-15 20:50:36.586] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
+[2017-06-15 20:50:36.588] [DEBUG] [default] - IncomingMessage {
   _readableState: 
    ReadableState {
      objectMode: false,
@@ -148,7 +41,7 @@
      _hadError: false,
      _handle: 
       TCP {
-        bytesRead: 34022,
+        bytesRead: 23130,
         _externalStream: {},
         fd: 99,
         reading: true,
@@ -225,7 +118,7 @@
      writable: true,
      allowHalfOpen: true,
      destroyed: false,
-     _bytesDispatched: 56431,
+     _bytesDispatched: 76053,
      _sockname: null,
      _pendingData: null,
      _pendingEncoding: '',
@@ -246,7 +139,7 @@
         timeout: 120000,
         _pendingResponseData: 0,
         maxHeadersCount: null,
-        _connectionKey: '6::::5000' },
+        _connectionKey: '6::::4000' },
      _server: 
       Server {
         domain: null,
@@ -264,7 +157,7 @@
         timeout: 120000,
         _pendingResponseData: 0,
         maxHeadersCount: null,
-        _connectionKey: '6::::5000' },
+        _connectionKey: '6::::4000' },
      _idleTimeout: 120000,
      _idleNext: 
       Socket {
@@ -283,7 +176,7 @@
         writable: true,
         allowHalfOpen: true,
         destroyed: false,
-        _bytesDispatched: 4381,
+        _bytesDispatched: 10733,
         _sockname: null,
         _pendingData: null,
         _pendingEncoding: '',
@@ -292,7 +185,7 @@
         _idleTimeout: 120000,
         _idleNext: [Object],
         _idlePrev: [Circular],
-        _idleStart: 24260,
+        _idleStart: 29240,
         parser: [Object],
         on: [Function: socketOnWrap],
         _paused: false,
@@ -308,7 +201,7 @@
         _unrefed: true,
         msecs: 120000,
         nextTick: false },
-     _idleStart: 27894,
+     _idleStart: 32762,
      parser: 
       HTTPParser {
         '0': [Function: parserOnHeaders],
@@ -366,14 +259,14 @@
         writeHead: [Function: writeHead],
         __onFinished: [Object],
         end: [Function: end] },
-     _peername: { address: '::1', family: 'IPv6', port: 50072 } },
+     _peername: { address: '::1', family: 'IPv6', port: 53095 } },
   connection: 
    Socket {
      connecting: false,
      _hadError: false,
      _handle: 
       TCP {
-        bytesRead: 34022,
+        bytesRead: 23130,
         _externalStream: {},
         fd: 99,
         reading: true,
@@ -450,7 +343,7 @@
      writable: true,
      allowHalfOpen: true,
      destroyed: false,
-     _bytesDispatched: 56431,
+     _bytesDispatched: 76053,
      _sockname: null,
      _pendingData: null,
      _pendingEncoding: '',
@@ -471,7 +364,7 @@
         timeout: 120000,
         _pendingResponseData: 0,
         maxHeadersCount: null,
-        _connectionKey: '6::::5000' },
+        _connectionKey: '6::::4000' },
      _server: 
       Server {
         domain: null,
@@ -489,7 +382,7 @@
         timeout: 120000,
         _pendingResponseData: 0,
         maxHeadersCount: null,
-        _connectionKey: '6::::5000' },
+        _connectionKey: '6::::4000' },
      _idleTimeout: 120000,
      _idleNext: 
       Socket {
@@ -508,7 +401,7 @@
         writable: true,
         allowHalfOpen: true,
         destroyed: false,
-        _bytesDispatched: 4381,
+        _bytesDispatched: 10733,
         _sockname: null,
         _pendingData: null,
         _pendingEncoding: '',
@@ -517,7 +410,7 @@
         _idleTimeout: 120000,
         _idleNext: [Object],
         _idlePrev: [Circular],
-        _idleStart: 24260,
+        _idleStart: 29240,
         parser: [Object],
         on: [Function: socketOnWrap],
         _paused: false,
@@ -533,7 +426,7 @@
         _unrefed: true,
         msecs: 120000,
         nextTick: false },
-     _idleStart: 27894,
+     _idleStart: 32762,
      parser: 
       HTTPParser {
         '0': [Function: parserOnHeaders],
@@ -591,27 +484,27 @@
         writeHead: [Function: writeHead],
         __onFinished: [Object],
         end: [Function: end] },
-     _peername: { address: '::1', family: 'IPv6', port: 50072 } },
+     _peername: { address: '::1', family: 'IPv6', port: 53095 } },
   httpVersionMajor: 1,
   httpVersionMinor: 1,
   httpVersion: '1.1',
   complete: true,
   headers: 
-   { host: 'localhost:5000',
+   { host: 'localhost:4000',
      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
      'accept-encoding': 'gzip, deflate',
      'accept-language': 'zh-cn',
      'content-type': 'application/x-www-form-urlencoded',
-     origin: 'http://localhost:5000',
+     origin: 'http://localhost:4000',
      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50',
      connection: 'keep-alive',
      'upgrade-insecure-requests': '1',
-     referer: 'http://localhost:5000/login',
+     referer: 'http://localhost:4000/login',
      'content-length': '17',
      cookie: 'Hm_lvt_5ae08e51fa20a78bfd4b33bee4d8ccda=1493962367; blog=s%3AjTPWJH8OtzxUARiHxji3N-44F3YMYlOb.ragpvET4Lz2J8Zpx52Pp4v%2B%2F%2BBpepIxaDPrsiQwerzE; Phpstorm-e660ec84=4c4a861b-dfec-4d36-a7d3-e6f1a4c357ad' },
   rawHeaders: 
    [ 'Host',
-     'localhost:5000',
+     'localhost:4000',
      'Accept',
      'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
      'Accept-Encoding',
@@ -621,7 +514,7 @@
      'Content-Type',
      'application/x-www-form-urlencoded',
      'Origin',
-     'http://localhost:5000',
+     'http://localhost:4000',
      'User-Agent',
      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50',
      'Connection',
@@ -629,7 +522,7 @@
      'Upgrade-Insecure-Requests',
      '1',
      'Referer',
-     'http://localhost:5000/login',
+     'http://localhost:4000/login',
      'Content-Length',
      '17',
      'Cookie',
@@ -647,7 +540,7 @@
      _hadError: false,
      _handle: 
       TCP {
-        bytesRead: 34022,
+        bytesRead: 23130,
         _externalStream: {},
         fd: 99,
         reading: true,
@@ -724,7 +617,7 @@
      writable: true,
      allowHalfOpen: true,
      destroyed: false,
-     _bytesDispatched: 56431,
+     _bytesDispatched: 76053,
      _sockname: null,
      _pendingData: null,
      _pendingEncoding: '',
@@ -745,7 +638,7 @@
         timeout: 120000,
         _pendingResponseData: 0,
         maxHeadersCount: null,
-        _connectionKey: '6::::5000' },
+        _connectionKey: '6::::4000' },
      _server: 
       Server {
         domain: null,
@@ -763,7 +656,7 @@
         timeout: 120000,
         _pendingResponseData: 0,
         maxHeadersCount: null,
-        _connectionKey: '6::::5000' },
+        _connectionKey: '6::::4000' },
      _idleTimeout: 120000,
      _idleNext: 
       Socket {
@@ -782,7 +675,7 @@
         writable: true,
         allowHalfOpen: true,
         destroyed: false,
-        _bytesDispatched: 4381,
+        _bytesDispatched: 10733,
         _sockname: null,
         _pendingData: null,
         _pendingEncoding: '',
@@ -791,7 +684,7 @@
         _idleTimeout: 120000,
         _idleNext: [Object],
         _idlePrev: [Circular],
-        _idleStart: 24260,
+        _idleStart: 29240,
         parser: [Object],
         on: [Function: socketOnWrap],
         _paused: false,
@@ -807,7 +700,7 @@
         _unrefed: true,
         msecs: 120000,
         nextTick: false },
-     _idleStart: 27894,
+     _idleStart: 32762,
      parser: 
       HTTPParser {
         '0': [Function: parserOnHeaders],
@@ -865,7 +758,7 @@
         writeHead: [Function: writeHead],
         __onFinished: [Object],
         end: [Function: end] },
-     _peername: { address: '::1', family: 'IPv6', port: 50072 } },
+     _peername: { address: '::1', family: 'IPv6', port: 53095 } },
   _consuming: true,
   _dumped: false,
   next: [Function: next],
@@ -928,7 +821,7 @@
         writable: true,
         allowHalfOpen: true,
         destroyed: false,
-        _bytesDispatched: 56431,
+        _bytesDispatched: 76053,
         _sockname: null,
         _pendingData: null,
         _pendingEncoding: '',
@@ -937,7 +830,7 @@
         _idleTimeout: 120000,
         _idleNext: [Object],
         _idlePrev: [Object],
-        _idleStart: 27894,
+        _idleStart: 32762,
         parser: [Object],
         on: [Function: socketOnWrap],
         _paused: false,
@@ -962,7 +855,7 @@
         writable: true,
         allowHalfOpen: true,
         destroyed: false,
-        _bytesDispatched: 56431,
+        _bytesDispatched: 76053,
         _sockname: null,
         _pendingData: null,
         _pendingEncoding: '',
@@ -971,7 +864,7 @@
         _idleTimeout: 120000,
         _idleNext: [Object],
         _idlePrev: [Object],
-        _idleStart: 27894,
+        _idleStart: 32762,
         parser: [Object],
         on: [Function: socketOnWrap],
         _paused: false,
@@ -1008,8 +901,8 @@
         Passport: [Function: Authenticator],
         Strategy: [Object],
         strategies: [Object] } },
-  _startAt: [ 112412, 422093965 ],
-  _startTime: 2017-06-15T10:41:46.335Z,
+  _startAt: [ 120142, 671430615 ],
+  _startTime: 2017-06-15T12:50:36.585Z,
   _remoteAddress: '::1',
   body: { name: '1', password: '1' },
   _body: true,
@@ -1080,7 +973,7 @@
    Session {
      cookie: 
       { path: '/',
-        _expires: 2017-07-15T10:41:32.879Z,
+        _expires: 2017-07-15T12:50:30.730Z,
         originalMaxAge: 2592000000,
         httpOnly: true,
         secure: false },
@@ -1093,21 +986,3 @@
   files: {},
   flash: [Function: _flash],
   route: Route { path: '/login', stack: [ [Object] ], methods: { post: true } } }
-::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "POST /login HTTP/1.1" 302 46 "http://localhost:5000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET / HTTP/1.1" 200 3788 "http://localhost:5000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2818 "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /KindEditor/themes/default/default.png HTTP/1.1" 304 - "http://localhost:5000/post" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET / HTTP/1.1" 200 3788 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
