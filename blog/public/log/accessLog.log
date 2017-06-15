@@ -1,7 +1,0 @@
-[2017-06-15 13:59:25.761] [TRACE] [default] - path=/Users/a58/Localhost/Node/blog/app.js:trace log
-[2017-06-15 13:59:25.769] [DEBUG] [default] - debug log
-[2017-06-15 13:59:25.769] [INFO] [default] - info log
-[2017-06-15 13:59:25.773] [WARN] [default] - warn log
-[2017-06-15 13:59:25.773] [ERROR] [default] - error log
-[2017-06-15 13:59:25.773] [FATAL] [default] - fatal log
-[2017-06-15 13:59:25.813] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
