@@ -1,0 +1,19 @@
+<%- include header %>
+<form method="post">
+    <div class="posttitle_control">
+       标题：<br />
+        <input type="text" name="title"  placeholder="请输入文章标题"/>
+     </div>
+    <div class="postBody_control">
+        标签：<br />
+        <input type="text" name="tag1" /><input type="text" name="tag2" /><input type="text" name="tag3" /><br />
+    正文：<br />
+    <textarea name="post" rows="30" cols="85"></textarea><br />
+    </div>
+    <div class="postButton_control">
+        <input  type="submit" value="发表" />
+        <input  type="submit" value="舍弃" />
+        <input  type="submit" value="保存" />
+    </div>
+</form>
+<%- include footer %>

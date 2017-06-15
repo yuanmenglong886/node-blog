@@ -1,0 +1,1113 @@
+[2017-06-15 13:59:25.761] [TRACE] [default] - path=/Users/a58/Localhost/Node/blog/app.js:trace log
+[2017-06-15 13:59:25.769] [DEBUG] [default] - debug log
+[2017-06-15 13:59:25.769] [INFO] [default] - info log
+[2017-06-15 13:59:25.773] [WARN] [default] - warn log
+[2017-06-15 13:59:25.773] [ERROR] [default] - error log
+[2017-06-15 13:59:25.773] [FATAL] [default] - fatal log
+[2017-06-15 13:59:25.813] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
+[2017-06-15 18:38:59.721] [TRACE] [default] - path=/Users/a58/Localhost/Node/blog/app.js:trace log
+[2017-06-15 18:38:59.725] [DEBUG] [default] - debug log
+[2017-06-15 18:38:59.725] [INFO] [default] - info log
+[2017-06-15 18:38:59.725] [WARN] [default] - warn log
+[2017-06-15 18:38:59.725] [ERROR] [default] - error log
+[2017-06-15 18:38:59.726] [FATAL] [default] - fatal log
+[2017-06-15 18:38:59.772] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
+[2017-06-15 18:40:49.918] [TRACE] [default] - path=/Users/a58/Localhost/Node/blog/app.js:trace log
+[2017-06-15 18:40:49.922] [DEBUG] [default] - debug log
+[2017-06-15 18:40:49.922] [INFO] [default] - info log
+[2017-06-15 18:40:49.922] [WARN] [default] - warn log
+[2017-06-15 18:40:49.923] [ERROR] [default] - error log
+[2017-06-15 18:40:49.923] [FATAL] [default] - fatal log
+[2017-06-15 18:40:49.956] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
+[2017-06-15 18:41:18.838] [TRACE] [default] - path=/Users/a58/Localhost/Node/blog/app.js:trace log
+[2017-06-15 18:41:18.842] [DEBUG] [default] - debug log
+[2017-06-15 18:41:18.842] [INFO] [default] - info log
+[2017-06-15 18:41:18.842] [WARN] [default] - warn log
+[2017-06-15 18:41:18.842] [ERROR] [default] - error log
+[2017-06-15 18:41:18.842] [FATAL] [default] - fatal log
+[2017-06-15 18:41:18.875] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
+::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:24 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:25 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:26 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:27 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:28 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:29 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:30 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:31 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET / HTTP/1.1" 200 3727 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:32 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:33 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /archive HTTP/1.1" 304 - "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:34 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2593 "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:35 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /u/yuanmenglong886/2017-6-13/hush HTTP/1.1" 200 2502 "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:39 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /reg HTTP/1.1" 200 2773 "http://localhost:5000/u/yuanmenglong886/2017-6-13/hush" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:41 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /login HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:42 GMT] "GET /images/login_default.png HTTP/1.1" 304 - "http://localhost:5000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+[2017-06-15 18:41:46.364] [DEBUG] [default] - 11111yuanmenglongyuanmenglong
+[2017-06-15 18:41:46.365] [DEBUG] [default] - IncomingMessage {
+  _readableState: 
+   ReadableState {
+     objectMode: false,
+     highWaterMark: 16384,
+     buffer: BufferList { head: null, tail: null, length: 0 },
+     length: 0,
+     pipes: null,
+     pipesCount: 0,
+     flowing: true,
+     ended: true,
+     endEmitted: true,
+     reading: false,
+     sync: false,
+     needReadable: false,
+     emittedReadable: false,
+     readableListening: false,
+     resumeScheduled: false,
+     defaultEncoding: 'utf8',
+     ranOut: false,
+     awaitDrain: 0,
+     readingMore: false,
+     decoder: null,
+     encoding: null },
+  readable: false,
+  domain: null,
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  socket: 
+   Socket {
+     connecting: false,
+     _hadError: false,
+     _handle: 
+      TCP {
+        bytesRead: 34022,
+        _externalStream: {},
+        fd: 99,
+        reading: true,
+        owner: [Circular],
+        onread: [Function: onread],
+        onconnection: null,
+        writeQueueSize: 0,
+        _consumed: true },
+     _parent: null,
+     _host: null,
+     _readableState: 
+      ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: [Object],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: true,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function: bound socketOnTimeout],
+        data: [Function: bound socketOnData],
+        error: [Object],
+        close: [Object],
+        resume: [Function: onSocketResume],
+        pause: [Function: onSocketPause] },
+     _eventsCount: 10,
+     _maxListeners: undefined,
+     _writableState: 
+      WritableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        corked: 0,
+        sync: false,
+        bufferProcessing: false,
+        onwrite: [Function: bound onwrite],
+        writecb: null,
+        writelen: 0,
+        bufferedRequest: null,
+        lastBufferedRequest: null,
+        pendingcb: 0,
+        prefinished: false,
+        errorEmitted: false,
+        bufferedRequestCount: 0,
+        corkedRequestsFree: [Object] },
+     writable: true,
+     allowHalfOpen: true,
+     destroyed: false,
+     _bytesDispatched: 56431,
+     _sockname: null,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _connections: 3,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        maxHeadersCount: null,
+        _connectionKey: '6::::5000' },
+     _server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _connections: 3,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        maxHeadersCount: null,
+        _connectionKey: '6::::5000' },
+     _idleTimeout: 120000,
+     _idleNext: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 10,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        destroyed: false,
+        _bytesDispatched: 4381,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Circular],
+        _idleStart: 24260,
+        parser: [Object],
+        on: [Function: socketOnWrap],
+        _paused: false,
+        read: [Function],
+        _consuming: true,
+        _httpMessage: null,
+        _peername: [Object] },
+     _idlePrev: 
+      TimersList {
+        _idleNext: [Circular],
+        _idlePrev: [Object],
+        _timer: [Object],
+        _unrefed: true,
+        msecs: 120000,
+        nextTick: false },
+     _idleStart: 27894,
+     parser: 
+      HTTPParser {
+        '0': [Function: parserOnHeaders],
+        '1': [Function: parserOnHeadersComplete],
+        '2': [Function: parserOnBody],
+        '3': [Function: parserOnMessageComplete],
+        '4': [Function: bound onParserExecute],
+        _headers: [],
+        _url: '',
+        _consumed: true,
+        socket: [Circular],
+        incoming: [Circular],
+        outgoing: null,
+        maxHeaderPairs: 2000,
+        onIncoming: [Function: bound parserOnIncoming] },
+     on: [Function: socketOnWrap],
+     _paused: false,
+     read: [Function],
+     _consuming: true,
+     _httpMessage: 
+      ServerResponse {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: true,
+        _last: false,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _removedHeader: {},
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _headerSent: false,
+        socket: [Circular],
+        connection: [Circular],
+        _header: null,
+        _headers: [Object],
+        _headerNames: [Object],
+        _onPendingData: [Function: bound updateOutgoingData],
+        _sent100: false,
+        _expect_continue: false,
+        req: [Circular],
+        locals: [Object],
+        _startAt: undefined,
+        _startTime: undefined,
+        writeHead: [Function: writeHead],
+        __onFinished: [Object],
+        end: [Function: end] },
+     _peername: { address: '::1', family: 'IPv6', port: 50072 } },
+  connection: 
+   Socket {
+     connecting: false,
+     _hadError: false,
+     _handle: 
+      TCP {
+        bytesRead: 34022,
+        _externalStream: {},
+        fd: 99,
+        reading: true,
+        owner: [Circular],
+        onread: [Function: onread],
+        onconnection: null,
+        writeQueueSize: 0,
+        _consumed: true },
+     _parent: null,
+     _host: null,
+     _readableState: 
+      ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: [Object],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: true,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function: bound socketOnTimeout],
+        data: [Function: bound socketOnData],
+        error: [Object],
+        close: [Object],
+        resume: [Function: onSocketResume],
+        pause: [Function: onSocketPause] },
+     _eventsCount: 10,
+     _maxListeners: undefined,
+     _writableState: 
+      WritableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        corked: 0,
+        sync: false,
+        bufferProcessing: false,
+        onwrite: [Function: bound onwrite],
+        writecb: null,
+        writelen: 0,
+        bufferedRequest: null,
+        lastBufferedRequest: null,
+        pendingcb: 0,
+        prefinished: false,
+        errorEmitted: false,
+        bufferedRequestCount: 0,
+        corkedRequestsFree: [Object] },
+     writable: true,
+     allowHalfOpen: true,
+     destroyed: false,
+     _bytesDispatched: 56431,
+     _sockname: null,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _connections: 3,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        maxHeadersCount: null,
+        _connectionKey: '6::::5000' },
+     _server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _connections: 3,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        maxHeadersCount: null,
+        _connectionKey: '6::::5000' },
+     _idleTimeout: 120000,
+     _idleNext: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 10,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        destroyed: false,
+        _bytesDispatched: 4381,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Circular],
+        _idleStart: 24260,
+        parser: [Object],
+        on: [Function: socketOnWrap],
+        _paused: false,
+        read: [Function],
+        _consuming: true,
+        _httpMessage: null,
+        _peername: [Object] },
+     _idlePrev: 
+      TimersList {
+        _idleNext: [Circular],
+        _idlePrev: [Object],
+        _timer: [Object],
+        _unrefed: true,
+        msecs: 120000,
+        nextTick: false },
+     _idleStart: 27894,
+     parser: 
+      HTTPParser {
+        '0': [Function: parserOnHeaders],
+        '1': [Function: parserOnHeadersComplete],
+        '2': [Function: parserOnBody],
+        '3': [Function: parserOnMessageComplete],
+        '4': [Function: bound onParserExecute],
+        _headers: [],
+        _url: '',
+        _consumed: true,
+        socket: [Circular],
+        incoming: [Circular],
+        outgoing: null,
+        maxHeaderPairs: 2000,
+        onIncoming: [Function: bound parserOnIncoming] },
+     on: [Function: socketOnWrap],
+     _paused: false,
+     read: [Function],
+     _consuming: true,
+     _httpMessage: 
+      ServerResponse {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: true,
+        _last: false,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _removedHeader: {},
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _headerSent: false,
+        socket: [Circular],
+        connection: [Circular],
+        _header: null,
+        _headers: [Object],
+        _headerNames: [Object],
+        _onPendingData: [Function: bound updateOutgoingData],
+        _sent100: false,
+        _expect_continue: false,
+        req: [Circular],
+        locals: [Object],
+        _startAt: undefined,
+        _startTime: undefined,
+        writeHead: [Function: writeHead],
+        __onFinished: [Object],
+        end: [Function: end] },
+     _peername: { address: '::1', family: 'IPv6', port: 50072 } },
+  httpVersionMajor: 1,
+  httpVersionMinor: 1,
+  httpVersion: '1.1',
+  complete: true,
+  headers: 
+   { host: 'localhost:5000',
+     accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+     'accept-encoding': 'gzip, deflate',
+     'accept-language': 'zh-cn',
+     'content-type': 'application/x-www-form-urlencoded',
+     origin: 'http://localhost:5000',
+     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50',
+     connection: 'keep-alive',
+     'upgrade-insecure-requests': '1',
+     referer: 'http://localhost:5000/login',
+     'content-length': '17',
+     cookie: 'Hm_lvt_5ae08e51fa20a78bfd4b33bee4d8ccda=1493962367; blog=s%3AjTPWJH8OtzxUARiHxji3N-44F3YMYlOb.ragpvET4Lz2J8Zpx52Pp4v%2B%2F%2BBpepIxaDPrsiQwerzE; Phpstorm-e660ec84=4c4a861b-dfec-4d36-a7d3-e6f1a4c357ad' },
+  rawHeaders: 
+   [ 'Host',
+     'localhost:5000',
+     'Accept',
+     'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+     'Accept-Encoding',
+     'gzip, deflate',
+     'Accept-Language',
+     'zh-cn',
+     'Content-Type',
+     'application/x-www-form-urlencoded',
+     'Origin',
+     'http://localhost:5000',
+     'User-Agent',
+     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50',
+     'Connection',
+     'keep-alive',
+     'Upgrade-Insecure-Requests',
+     '1',
+     'Referer',
+     'http://localhost:5000/login',
+     'Content-Length',
+     '17',
+     'Cookie',
+     'Hm_lvt_5ae08e51fa20a78bfd4b33bee4d8ccda=1493962367; blog=s%3AjTPWJH8OtzxUARiHxji3N-44F3YMYlOb.ragpvET4Lz2J8Zpx52Pp4v%2B%2F%2BBpepIxaDPrsiQwerzE; Phpstorm-e660ec84=4c4a861b-dfec-4d36-a7d3-e6f1a4c357ad' ],
+  trailers: {},
+  rawTrailers: [],
+  upgrade: false,
+  url: '/login',
+  method: 'POST',
+  statusCode: null,
+  statusMessage: null,
+  client: 
+   Socket {
+     connecting: false,
+     _hadError: false,
+     _handle: 
+      TCP {
+        bytesRead: 34022,
+        _externalStream: {},
+        fd: 99,
+        reading: true,
+        owner: [Circular],
+        onread: [Function: onread],
+        onconnection: null,
+        writeQueueSize: 0,
+        _consumed: true },
+     _parent: null,
+     _host: null,
+     _readableState: 
+      ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: [Object],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: true,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function: bound socketOnTimeout],
+        data: [Function: bound socketOnData],
+        error: [Object],
+        close: [Object],
+        resume: [Function: onSocketResume],
+        pause: [Function: onSocketPause] },
+     _eventsCount: 10,
+     _maxListeners: undefined,
+     _writableState: 
+      WritableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        corked: 0,
+        sync: false,
+        bufferProcessing: false,
+        onwrite: [Function: bound onwrite],
+        writecb: null,
+        writelen: 0,
+        bufferedRequest: null,
+        lastBufferedRequest: null,
+        pendingcb: 0,
+        prefinished: false,
+        errorEmitted: false,
+        bufferedRequestCount: 0,
+        corkedRequestsFree: [Object] },
+     writable: true,
+     allowHalfOpen: true,
+     destroyed: false,
+     _bytesDispatched: 56431,
+     _sockname: null,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _connections: 3,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        maxHeadersCount: null,
+        _connectionKey: '6::::5000' },
+     _server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _connections: 3,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        maxHeadersCount: null,
+        _connectionKey: '6::::5000' },
+     _idleTimeout: 120000,
+     _idleNext: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 10,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        destroyed: false,
+        _bytesDispatched: 4381,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Circular],
+        _idleStart: 24260,
+        parser: [Object],
+        on: [Function: socketOnWrap],
+        _paused: false,
+        read: [Function],
+        _consuming: true,
+        _httpMessage: null,
+        _peername: [Object] },
+     _idlePrev: 
+      TimersList {
+        _idleNext: [Circular],
+        _idlePrev: [Object],
+        _timer: [Object],
+        _unrefed: true,
+        msecs: 120000,
+        nextTick: false },
+     _idleStart: 27894,
+     parser: 
+      HTTPParser {
+        '0': [Function: parserOnHeaders],
+        '1': [Function: parserOnHeadersComplete],
+        '2': [Function: parserOnBody],
+        '3': [Function: parserOnMessageComplete],
+        '4': [Function: bound onParserExecute],
+        _headers: [],
+        _url: '',
+        _consumed: true,
+        socket: [Circular],
+        incoming: [Circular],
+        outgoing: null,
+        maxHeaderPairs: 2000,
+        onIncoming: [Function: bound parserOnIncoming] },
+     on: [Function: socketOnWrap],
+     _paused: false,
+     read: [Function],
+     _consuming: true,
+     _httpMessage: 
+      ServerResponse {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: true,
+        _last: false,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _removedHeader: {},
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _headerSent: false,
+        socket: [Circular],
+        connection: [Circular],
+        _header: null,
+        _headers: [Object],
+        _headerNames: [Object],
+        _onPendingData: [Function: bound updateOutgoingData],
+        _sent100: false,
+        _expect_continue: false,
+        req: [Circular],
+        locals: [Object],
+        _startAt: undefined,
+        _startTime: undefined,
+        writeHead: [Function: writeHead],
+        __onFinished: [Object],
+        end: [Function: end] },
+     _peername: { address: '::1', family: 'IPv6', port: 50072 } },
+  _consuming: true,
+  _dumped: false,
+  next: [Function: next],
+  baseUrl: '',
+  originalUrl: '/login',
+  _parsedUrl: 
+   Url {
+     protocol: null,
+     slashes: null,
+     auth: null,
+     host: null,
+     port: null,
+     hostname: null,
+     hash: null,
+     search: null,
+     query: null,
+     pathname: '/login',
+     path: '/login',
+     href: '/login',
+     _raw: '/login' },
+  params: {},
+  query: {},
+  res: 
+   ServerResponse {
+     domain: null,
+     _events: { finish: [Object], end: [Function: onevent] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     output: [],
+     outputEncodings: [],
+     outputCallbacks: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     upgrading: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: true,
+     _removedHeader: {},
+     _contentLength: null,
+     _hasBody: true,
+     _trailer: '',
+     finished: false,
+     _headerSent: false,
+     socket: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 10,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        destroyed: false,
+        _bytesDispatched: 56431,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 27894,
+        parser: [Object],
+        on: [Function: socketOnWrap],
+        _paused: false,
+        read: [Function],
+        _consuming: true,
+        _httpMessage: [Circular],
+        _peername: [Object] },
+     connection: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 10,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        destroyed: false,
+        _bytesDispatched: 56431,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 27894,
+        parser: [Object],
+        on: [Function: socketOnWrap],
+        _paused: false,
+        read: [Function],
+        _consuming: true,
+        _httpMessage: [Circular],
+        _peername: [Object] },
+     _header: null,
+     _headers: 
+      { 'x-powered-by': 'Express',
+        'set-cookie': 'user=j%3A%7B%22_id%22%3A%22593e38d807f69f9f0535d063%22%2C%22name%22%3A%221%22%2C%22password%22%3A%22c4ca4238a0b923820dcc509a6f75849b%22%2C%22email%22%3A%2218501282941%40163.com%22%7D; Path=/' },
+     _headerNames: { 'x-powered-by': 'X-Powered-By', 'set-cookie': 'Set-Cookie' },
+     _onPendingData: [Function: bound updateOutgoingData],
+     _sent100: false,
+     _expect_continue: false,
+     req: [Circular],
+     locals: { error: [], success: [] },
+     _startAt: undefined,
+     _startTime: undefined,
+     writeHead: [Function: writeHead],
+     __onFinished: { [Function: listener] queue: [Object] },
+     end: [Function: end] },
+  _passport: 
+   { instance: 
+      Authenticator {
+        _key: 'passport',
+        _strategies: [Object],
+        _serializers: [],
+        _deserializers: [],
+        _infoTransformers: [],
+        _framework: [Object],
+        _userProperty: 'user',
+        Authenticator: [Function: Authenticator],
+        Passport: [Function: Authenticator],
+        Strategy: [Object],
+        strategies: [Object] } },
+  _startAt: [ 112412, 422093965 ],
+  _startTime: 2017-06-15T10:41:46.335Z,
+  _remoteAddress: '::1',
+  body: { name: '1', password: '1' },
+  _body: true,
+  length: undefined,
+  read: [Function],
+  secret: 'yuanmenglong',
+  cookies: 
+   { Hm_lvt_5ae08e51fa20a78bfd4b33bee4d8ccda: '1493962367',
+     'Phpstorm-e660ec84': '4c4a861b-dfec-4d36-a7d3-e6f1a4c357ad' },
+  signedCookies: { blog: false },
+  _parsedOriginalUrl: 
+   Url {
+     protocol: null,
+     slashes: null,
+     auth: null,
+     host: null,
+     port: null,
+     hostname: null,
+     hash: null,
+     search: null,
+     query: null,
+     pathname: '/login',
+     path: '/login',
+     href: '/login',
+     _raw: '/login' },
+  sessionStore: 
+   MongoStore {
+     options: 
+      { db: 'blog',
+        host: 'localhost',
+        port: 27017,
+        url: 'mongodb://127.0.0.1:27017/blog',
+        auto_reconnect: true,
+        ttl: 1209600,
+        autoReconnect: true,
+        ssl: false,
+        w: 1,
+        collection: 'sessions',
+        stringify: true,
+        hash: false,
+        autoRemove: 'native',
+        autoRemoveInterval: 10,
+        serialize: [Function: stringify],
+        unserialize: [Function: parse] },
+     getCollection: [Function],
+     getSessionId: [Function],
+     state: 'connected',
+     generate: [Function],
+     _events: { disconnect: [Function], connect: [Function] },
+     _eventsCount: 2,
+     db: 
+      Db {
+        domain: null,
+        _events: {},
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        s: [Object],
+        serverConfig: [Getter],
+        bufferMaxEntries: [Getter],
+        databaseName: [Getter],
+        options: [Getter],
+        native_parser: [Getter],
+        slaveOk: [Getter],
+        writeConcern: [Getter] },
+     collection: Collection { s: [Object] } },
+  sessionID: 'jTPWJH8OtzxUARiHxji3N-44F3YMYlOb',
+  session: 
+   Session {
+     cookie: 
+      { path: '/',
+        _expires: 2017-07-15T10:41:32.879Z,
+        originalMaxAge: 2592000000,
+        httpOnly: true,
+        secure: false },
+     flash: { success: [Object] },
+     user: 
+      { _id: 593e38d807f69f9f0535d063,
+        name: '1',
+        password: 'c4ca4238a0b923820dcc509a6f75849b',
+        email: '18501282941@163.com' } },
+  files: {},
+  flash: [Function: _flash],
+  route: Route { path: '/login', stack: [ [Object] ], methods: { post: true } } }
+::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "POST /login HTTP/1.1" 302 46 "http://localhost:5000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET / HTTP/1.1" 200 3788 "http://localhost:5000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:46 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /u/yuanmenglong886/2017-6-13/yuanmenglopng HTTP/1.1" 200 2818 "http://localhost:5000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:48 GMT] "GET /KindEditor/themes/default/default.png HTTP/1.1" 304 - "http://localhost:5000/post" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /u/yuanmenglong886 HTTP/1.1" 302 46 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET / HTTP/1.1" 200 3788 "http://localhost:5000/u/yuanmenglong886/2017-6-13/yuanmenglopng" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /KindEditor/kindeditor-min.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /KindEditor/lang/zh_CN.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+::1 - - [Thu, 15 Jun 2017 10:41:49 GMT] "GET /KindEditor/themes/default/default.css HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
