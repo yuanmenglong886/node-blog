@@ -236,7 +236,7 @@ module.exports = function(app) {
           tags.push(req.body.tag3);
       }
       // var post = new  Post(currentUser.name,req.body.title,tags,req.body.post);
-      var  post = new Post(currentUser.name, req.body.title, tags, req.body.post);
+      var  post = new Post(currentUser.name,req.body.head,req.body.title, tags, req.body.post);
       post.save(function (err) {
           if(err) {
               req.flash('info', err);
@@ -247,19 +247,6 @@ module.exports = function(app) {
       });
   });
 
-
-app.post('/post', function (req, res) {
-    var currentUser = req.session.user,
-        tags = [req.body.tag1, req.body.tag2, req.body.tag3],
-        post = new Post(currentUser.name, req.body.title, tags, req.body.post);
-    post.save(function (err) {
-        if (err) {
-            req.flash('error', err);
-            return res.redirect('/');
-        }
-     
-    });
-});
 
 
 
@@ -392,18 +379,24 @@ app.post('/post', function (req, res) {
                 return res.redirect('/');
             }
             // console.log(post.tags);
+
             if(!post.tags){
                 post.tags = [];
             }
-            console.log(post);
-            if(post.name == "errorName")
+            if(!(post.tags instanceof  Array))
             {
-                post.name = req.session.user.name;
-            }            console.log(req.session.user);
+                post.tags = [];
+            }
+            console.log(post);
+            // if(post.name == "errorName")
+            // {
+            //     post.name = req.session.user.name;
+            // }            console.log(req.session.user);
             res.render('article', {
                 title: req.params.title,
                 posts: post,
                 user: req.session.user,
+                tags:req.tags,
                 message: req.flash('info').toString(),
             });
         });
@@ -546,7 +539,44 @@ app.post('/post', function (req, res) {
             });
         });
     });
-
+    app.get('/reprint/:name/:day/:title', checkLogin);
+    app.get('/reprint/:name/:day/:title', function (req, res) {
+        Post.edit(req.params.name, req.params.day, req.params.title, function (err, post) {
+            console.log("err"+err);
+            if (err) {
+                req.flash('info', err);
+                return res.redirect(back);
+            }
+            var currentUser = req.session.user;
+            console.log(req.session.user);
+            console.log(post);
+                if(post){
+                    var    reprint_from = {name: post.name, day: post.time.day, title: post.title};
+                    var    reprint_to = {name: currentUser.name, head: currentUser.head};
+                     console.log("reprint_from"+reprint_to);
+                    console.log("reprint_from"+reprint_from);
+                    Post.reprint(reprint_from, reprint_to, function (err, post) {
+                        console.log("error  yuanemnglong");
+                        console.log(err);
+                        if (err) {
+                            req.flash('info', err);
+                            return res.redirect('back');
+                        }
+                        req.flash('info', '转载成功!');
+                        var string = '/u/' + post.name + '/' + post.time.day + '/' + post.title;
+                        var url = encodeURI(string);
+                        console.log("url"+url);
+                        //跳转到转载后的文章页面
+                        // res.redirect(url);
+                    });
+            }
+        });
+    });
+    
+    
+    
+    
+    
     native(app);
     error404(app);
     //   服务器端没有定义的路由跳转到 404 页面

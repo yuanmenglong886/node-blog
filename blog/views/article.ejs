@@ -4,16 +4,47 @@
     <span><a class="edit" href="/edit/<%= posts.name %>/<%= posts.time.day %>/<%= posts.title %>">编辑</a></span>
     <span><a class="edit" href="/remove/<%= posts.name %>/<%= posts.time.day %>/<%= posts.title %>">删除</a></span>
     <% } %>
-</p>
-<p class="info">
-    作者：<a href="/u/<%= posts.name %>"><%= posts.name %></a> |
-    日期：<%= posts.time.minute %>
-    标签：
-    <% posts.tags.forEach(function (tag, index) { %>
-    <% if (tag) { %>
-    <a class="tag" href="/tags/<%= tag %>"><%= tag %></a>
+    <% if(posts.reprint_info){ %>
+    <% if (posts.reprint_info.reprint_from) { %>
+    <br><a href="/u/<%= posts.reprint_info.reprint_from.name %>/<%= posts.reprint_info.reprint_from.day %>/<%= posts.reprint_info.reprint_from.title %>">原文链接</a>
+    <% } %>
+    <% }%>
+
+
+    <% var flag = 1 %>
+    <% if (user && (user.name != posts.name)) { %>
+    <% if(posts.reprint_info){%>
+    <% if ((posts.reprint_info.reprint_from != undefined) && (user.name == posts.reprint_info.reprint_from.name)) { %>
+    <% flag = 0 %>
+    <% } %>
+    <% }%>
+    <% if(posts.reprint_info) {%>
+    <% if ((posts.reprint_info.reprint_to != undefined)) { %>
+    <% posts.reprint_info.reprint_to.forEach(function (reprint_to, index) { %>
+    <% if (user.name == reprint_to.name) { %>
+    <% flag = 0 %>
     <% } %>
     <% }) %>
+    <% } %>
+    <% }%>
+    <% } else { %>
+    <% flag = 0 %>
+    <% } %>
+    <% if (flag) { %>
+    <span><a class="edit" href="/reprint/<%= posts.name %>/<%= posts.time.day %>/<%= posts.title %>">转载</a></span>
+    <% } %>
+</p>
+<p class="info">
+作者：<a href="/u/<%= posts.name %>"><%= posts.name %></a> |
+日期：<%= posts.time.minute %>
+标签：
+<% if(posts.tags) {%>
+<% posts.tags.forEach(function (tag, index) { %>
+<% if (tag) { %>
+<a class="tag" href="/tags/<%= tag %>"><%= tag %></a>
+<% } %>
+<% }) %>
+<% } %>
 </p>
 <p><%- posts.post %></p>
 <p class="info">阅读：<%= posts.pv %> | 评论：<%= posts.comments.length %></p>
